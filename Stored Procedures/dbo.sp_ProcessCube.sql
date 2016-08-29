@@ -21,6 +21,5 @@ select @resultOUT;
 --select * from @TempTable;
 --return;
 end;
-GO
-GRANT EXECUTE ON  [dbo].[sp_ProcessCube] TO [talenddwh]
+
 GO
