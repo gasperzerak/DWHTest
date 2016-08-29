@@ -1,0 +1,3 @@
+CREATE SCHEMA [STAGE]
+AUTHORIZATION [contoso\tvd_user]
+GO
